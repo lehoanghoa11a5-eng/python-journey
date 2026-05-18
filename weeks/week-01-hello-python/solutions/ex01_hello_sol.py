@@ -5,7 +5,7 @@ Lời giải Bài tập 01: Hello Python! 🐍
 """
 
 # TODO 1
-print("Ah yo,what's up bro?")
+print("Ah yo,what's up bro ?")
 
 # TODO 2
 print("Tôi tên là: Lê Hoàng Hòa")
